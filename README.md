@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy New Year 2025 - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #444;
-        }
-        code {
-            background-color: #eef;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background: #eef;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .screenshot {
-            margin: 20px 0;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <h1>Happy New Year 2025 Responsive Website</h1>
+<h1>Happy New Year 2025 Responsive Website</h1>
 
     <p>This project is a <strong>Responsive Happy New Year Greeting Website</strong> designed to provide an interactive experience where users can enter their name and receive a personalized New Year message along with a random motivational quote. The website features a modern, professional design and includes a dark/light mode toggle, animations, and responsiveness for various devices.</p>
 
@@ -109,7 +63,7 @@
 
     <h2>File Structure</h2>
 
-    <pre>
+<pre>
 Happy-New-Year-2025/
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS for styling
