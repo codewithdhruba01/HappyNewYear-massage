@@ -1,6 +1,6 @@
 <h1>Happy New Year 2025 Responsive Website</h1>
 
-    <p>This project is a <strong>Responsive Happy New Year Greeting Website</strong> designed to provide an interactive experience where users can enter their name and receive a personalized New Year message along with a random motivational quote. The website features a modern, professional design and includes a dark/light mode toggle, animations, and responsiveness for various devices.</p>
+    <p> This project is a <strong> Responsive Happy New Year Greeting Website </strong> designed to provide an interactive experience where users can enter their name and receive a personalized New Year message along with a random motivational quote. The website features a modern, professional design and includes a dark/light mode toggle, animations, and responsiveness for various devices. </p>
 
     <hr>
 
