@@ -1,18 +1,17 @@
 <h1>Happy New Year 2025 Responsive Website</h1>
 
-    <p> This project is a <strong> Responsive Happy New Year Greeting Website </strong> designed to provide an interactive experience where users can enter their name and receive a personalized New Year message along with a random motivational quote. The website features a modern, professional design and includes a dark/light mode toggle, animations, and responsiveness for various devices. </p>
+    <p> This project is a Responsive Happy New Year Greeting Website designed to provide an interactive experience where users can enter their name and receive a personalized New Year message along with a random motivational quote. The website features a modern, professional design and includes a dark/light mode toggle, animations, and responsiveness for various devices. </p>
 
-    <hr>
+    <br>
 
     <h2>Features</h2>
 
     <h3>1. Personalized Greeting</h3>
     <ul>
-        <li>Users can input their name to receive a personalized Happy New Year message.</li>
-        <li>Example: "Happy New Year, John!"</li>
+        <li> Users can input their name to receive a personalized Happy New Year message.</li>
+        <li>Example: "Happy New Year, friend!"</li>
     </ul>
-
-    <h3>2. Random Motivational Quotes</h3>
+    <h3> 2. Random Motivational Quotes</h3>
     <ul>
         <li>After entering a name, the user also sees a random New Year quote.</li>
         <li>The quotes refresh each time a name is submitted.</li>
@@ -36,10 +35,10 @@
 
     <h3>6. Footer</h3>
     <ul>
-        <li>A footer positioned at the bottom of the page contains copyright information.</li>
+        <li> A footer positioned at the bottom of the page contains copyright information. </li>
     </ul>
 
-    <hr>
+    <br>
 
     <h2>Technology Stack</h2>
 
