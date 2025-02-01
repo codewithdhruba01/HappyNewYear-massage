@@ -8,7 +8,7 @@ This project is a **Responsive Happy New Year Greeting Website** designed to pro
 
 ### 1. **Personalized Greeting**
 - Users can input their name to receive a personalized Happy New Year message.
-- Example: "Happy New Year, Dhrubaraj!"
+- Example: "Happy New Year, Dhrubaraj"
 
 ### 2. **Random Motivational Quotes**
 - After entering a name, the user also sees a random New Year quote.
